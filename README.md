@@ -54,3 +54,5 @@ El repositorio contiene dos carpetas:<br>
 **Gilbert_500_nodos**
 [Click here](https://youtu.be/EDTan4-zVac)
 
+**PLAYLIST CIC IPN Algoritmos Proyecto 5**
+[Click here](https://youtube.com/playlist?list=PLUD8VJChJZGHWHWk3XSvWynOfucgl7g3r)
